@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FDNE</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_ranking">Contests</string>
+    <string name="title_events">Events</string>
+    <string name="title_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_categories">Categorías</string>
+    <string name="title_activity_binomials">Rankings</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <string name="title_activity_performance">Mi Rendimiento</string>
+</resources>
