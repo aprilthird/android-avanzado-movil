@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColor">#9C27B0</color>
+    <color name="accentColor">#EC80FF</color>
+    <color name="activeColor">#9423A6</color>
+    <color name="lighterColor">#7C1F8C</color>
+    <color name="darkerColor">#5B1566</color>
+    <color name="lighterBackgroundColor2">#44104D</color>
+    <color name="lighterBackgroundColor1">#2E0B33</color>
+    <color name="defaultBackgroundColor">#000000</color>
+</resources>
